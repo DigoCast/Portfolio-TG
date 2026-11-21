@@ -18,7 +18,8 @@ Tecnologia em Análise e Desenvolvimento de Sistemas — Faculdade de Tecnologia
 ### Histórico Acadêmico
 
 - **2024 – 2026:** Tecnologia em Análise e Desenvolvimento de Sistemas — Fatec São José dos Campos – Prof. Jessen Vidal.
-- **2021 – 2023:** Ensino Médio no SESI integrado ao Curso Técnico em Eletromecânica do SENAI — São José dos Campos, concluído em 2023.
+- **2021 – 2023:** Ensino Médio — SESI, São José dos Campos.
+- **2022 – 2023:** Curso Técnico em Eletromecânica — SENAI, São José dos Campos.
 
 ### Motivação para Entrar na Fatec
 
@@ -173,8 +174,17 @@ Principais funcionalidades:
 - atualização e exclusão de registros.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bug-Busters-F/alplaca/refs/heads/Sprint-4/images/GifSprint4.gif" alt="Demonstração do Alplaca" width="75%">
+  <img src="./docs/img/alplaca-tela.png" alt="Tela principal do Alplaca com os dados reconhecidos da placa" width="85%">
 </p>
+
+<details>
+<summary>Detalhes</summary>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bug-Busters-F/alplaca/refs/heads/Sprint-4/images/GifSprint3.gif" alt="Demonstração do Alplaca" width="85%">
+</p>
+
+</details>
 
 ### Link do Repositório Git
 
@@ -416,7 +426,18 @@ Principais funcionalidades:
 - encerramento do chamado pelo cliente;
 - gestão de usuários, setores, categorias e métricas pelo administrador.
 
+<p align="center">
+  <img src="./docs/img/prodesk-telas.png" alt="Telas do ProDesk: painel de atendimento, detalhes do chamado e chat" width="85%">
+</p>
+
+<details>
+<summary>Detalhes</summary>
+
+Vídeo de demonstração:
+
 https://github.com/user-attachments/assets/08d9d7ad-9aa2-4a49-a741-156b113a702a
+
+</details>
 
 ### Link do Repositório Git
 
@@ -489,7 +510,18 @@ Principais funcionalidades:
 - apuração e fechamento de competências;
 - relatórios por colaborador e por regra e alertas estatísticos de anomalias.
 
+<p align="center">
+  <img src="./docs/img/comissionai-tela.png" alt="Tela de visão geral do ComissionAI" width="90%">
+</p>
+
+<details>
+<summary>Detalhes</summary>
+
+Vídeo de demonstração:
+
 https://github.com/user-attachments/assets/f865b432-0b44-4ec9-8c4a-7a9cbc3a5887
+
+</details>
 
 ### Link do Repositório Git
 
