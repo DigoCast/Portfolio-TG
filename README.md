@@ -27,7 +27,7 @@ A área de desenvolvimento de sistemas sempre me chamou atenção, mas eu não s
 
 ### Histórico Profissional
 
-- **Desenvolvedor de Sistemas (atual):** desenvolvimento de sistemas sob medida para duas empresas, uma do segmento de moda country e uma construtora.
+- **Assistente Administrativo, com atuação em desenvolvimento de sistemas (atual):** contratado para a área administrativa, passei a desenvolver, a pedido da gestão, sistemas sob medida para duas empresas — uma do segmento de moda country e uma construtora — após demonstrar conhecimento técnico na área.
 - **Assistente Administrativo (1 ano):** apoio às rotinas administrativas da empresa.
 
 Tenho interesse em desenvolvimento **Full Stack**, com afinidade especial pelo front-end e pela construção de interfaces que transformam dados em informação útil para a tomada de decisão. Estou em busca de oportunidades de estágio ou de emprego como Desenvolvedor Full Stack, Front-end ou Back-end.
@@ -379,7 +379,7 @@ Principais funcionalidades:
 
 ### Contribuições Pessoais
 
-Atuei como **Scrum Master** e como **desenvolvedor front-end**. Como Scrum Master, conduzi as cerimônias, mantive os **backlogs e os gráficos de burndown de cada sprint** e atualizei o `README.md` e o `CONTRIBUTING.md` do projeto. No desenvolvimento, criei o repositório do front-end e implementei, em **React com TypeScript**, a página **Home**, a página **Process**, com upload do PDF por arrastar e soltar (`DragAndDropUploader`), a página **ValidatePartNumber**, com a lista de Part-Numbers e a opção de exclusão, a página **ClassifyPartNumber**, o **ClassificationModal**, o **StatusBadge** com os estados "processando" e "validado" no processamento assíncrono e a página **History**, com barra de pesquisa e filtro por data. Também desenvolvi o componente **RecentPartnumber**, o _Context Provider_, os tipos e a camada `services/api.ts`. No back-end em **FastAPI**, corrigi o tipo do campo `tipi_ncm` (de inteiro para texto, preservando zeros à esquerda) e incluí o identificador do produto no histórico para permitir a edição.
+Atuei como **Scrum Master** e como **desenvolvedor front-end**. Como Scrum Master, conduzi as cerimônias, mantive os **backlogs e os gráficos de burndown de cada sprint** e atualizei o `README.md` e o `CONTRIBUTING.md` do projeto. No desenvolvimento, fiz a configuração inicial do projeto do front-end e implementei, em **React com TypeScript**, a página **Home**, a página **Process**, com upload do PDF por arrastar e soltar (`DragAndDropUploader`), a página **ValidatePartNumber**, com a lista de Part-Numbers e a opção de exclusão, a página **ClassifyPartNumber**, o **ClassificationModal**, o **StatusBadge** com os estados "processando" e "validado" no processamento assíncrono e a página **History**, com barra de pesquisa e filtro por data. Também desenvolvi o componente **RecentPartnumber**, o _Context Provider_, os tipos e a camada `services/api.ts`. No back-end em **FastAPI**, corrigi o tipo do campo `tipi_ncm` (de inteiro para texto, preservando zeros à esquerda) e incluí o identificador do produto no histórico para permitir a edição.
 
 ### Hard Skills
 
@@ -391,7 +391,7 @@ Atuei como **Scrum Master** e como **desenvolvedor front-end**. Como Scrum Maste
 | PostgreSQL           | Tipagem correta dos campos fiscais e consulta do histórico | Faço com autonomia    |
 | Ollama               | Integração do front-end com o agente de classificação      | Faço com ajuda        |
 | Docker               | Execução dos serviços em contêineres                       | Faço com autonomia    |
-| Git e GitHub         | Criação e organização do repositório do front-end          | Consigo ensinar       |
+| Git e GitHub         | Estrutura inicial do front-end e versionamento com PRs     | Consigo ensinar       |
 | Scrum                | Condução das cerimônias e burndown como Scrum Master       | Consigo ensinar       |
 
 ### Soft Skills
@@ -546,7 +546,7 @@ https://github.com/user-attachments/assets/f865b432-0b44-4ec9-8c4a-7a9cbc3a5887
 
 ### Contribuições Pessoais
 
-Atuei como **Desenvolvedor Front-end** (Team Member) e fui o principal autor do repositório do front-end, que criei e estruturei em **Vue.js 3, Pinia e TailwindCSS**. Implementei:
+Atuei como **Desenvolvedor Front-end** (Team Member). O desenvolvimento do front-end foi dividido entre mim e outro integrante da equipe: fiz a configuração inicial do projeto em **Vue.js 3, Pinia e TailwindCSS** e fiquei responsável pelas seguintes funcionalidades:
 
 - o **upload das bases** de RH e vendas em XLSX, com envio sequencial e assíncrono ao back-end, relatório de validação (`ValidationReport`), criação dinâmica de competências e consulta de dados efetivados, histórico de envios e exclusão de bases (`DataView`, `dataStore` e `dataService`);
 - a **apresentação de bases ausentes com bloqueio de cobertura**;
@@ -572,7 +572,7 @@ Utilizei ainda **agentes de IA como apoio ao desenvolvimento**: definia a tarefa
 | Vitest                           | Testes unitários e de integração do front-end               | Faço com autonomia    |
 | Agentes de IA no desenvolvimento | Definição de tarefas, revisão e teste do código sugerido    | Faço com autonomia    |
 | Docker                           | Execução dos serviços em contêineres                        | Faço com autonomia    |
-| Git e GitHub                     | Criação e organização do repositório do front-end           | Consigo ensinar       |
+| Git e GitHub                     | Versionamento do front-end com Pull Requests                | Consigo ensinar       |
 | Scrum                            | Participação nas cerimônias e entregas das sprints          | Consigo ensinar       |
 
 ### Soft Skills
