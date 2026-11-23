@@ -59,7 +59,7 @@ Tenho interesse em desenvolvimento **Full Stack**, com afinidade especial pelo f
 | ------------------------------------------------------- | ------------------------- | ------------------------------------------------------------------- |
 | [Primeiro Semestre (2024-1)](#primeiro-semestre-2024-1) | Fatec São José dos Campos | Scrum Academy — plataforma web para ensino de Scrum                 |
 | [Segundo Semestre (2024-2)](#segundo-semestre-2024-2)   | Fatec São José dos Campos | Alplaca — aplicação desktop de leitura de placas veiculares com IA  |
-| [Terceiro Semestre (2025-1)](#terceiro-semestre-2025-1) | Fatec São José dos Campos | AlfaLog — plataforma web de análise do comércio exterior brasileiro |
+| [Terceiro Semestre (2025-1)](#terceiro-semestre-2025-1) | Prof Marcus Nascimento, Coordenador da Logísitica | AlfaLog — plataforma web de análise do comércio exterior brasileiro |
 | [Quarto Semestre (2025-2)](#quarto-semestre-2025-2)     | TecSys                    | ClassiPy — plataforma web de classificação fiscal com IA            |
 | [Quinto Semestre (2026-1)](#quinto-semestre-2026-1)     | Pro4tech                  | ProDesk — aplicativo mobile de Help Desk                            |
 | [Sexto Semestre (2026-2)](#sexto-semestre-2026-2)       | Dom Rock                  | ComissionAI — plataforma web de gestão e apuração de comissões      |
@@ -231,7 +231,7 @@ Atuei como **Desenvolvedor** (Team Member), com foco na interface gráfica em **
 
 ### Empresa Parceira
 
-Fatec São José dos Campos – Prof. Jessen Vidal. Professor responsável pelos requisitos: **Prof. Marcus Nascimento**.
+Fatec São José dos Campos – Prof. Jessen Vidal. Professor responsável pelos requisitos: **Prof Marcus Nascimento, Coordenador da Logísitica**.
 
 ### Problema
 
